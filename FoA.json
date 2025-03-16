@@ -1,694 +1,784 @@
 {
-	"_meta": {
-		"sources": [
-			{
-				"json": "FractionsofAisha",
-				"abbreviation": "FoA",
-				"full": "Fractions of Aisha",
-                "color": "0096FF",
-				"version": "1.0.0",
-				"url": "https://github.com/Milisource/FoA-5etools",
-				"authors": [
-					"Demi, Chels, Baitten, and others"
-				],
-				"convertedBy": [
-					"ilikemotorcycles"
-				]
-			}
-		],
-		"dateAdded": 1729630006,
-		"dateLastModified": 1729630006,
-		"_dateLastModifiedHash": "6ae20ede5a",
-		"edition": "classic"
-	},
-	"item": [
-		{
-			"name": "Courtesan's Pack",
-			"source": "FractionsofAisha",
-			"baseItem": "pack|FoA",
-			"rarity": "none",
-			"type": "G",
-			"weight": 5,
-			"value": 2500,
-			"entries": [
-				"Includes:",
-                {
-                    "type": "list",
-                    "items": [
-                        "a {@item backpack|phb}",
-                        "an iron mirror",
-                        "an assortment of makeup creams and powders",
-                        "a bottle of perfume",
-                        "a bottle of fine wine",
-                        "two bottles each of personal lubricant and massage oil",
-                        "two sets of {@item lingerie|fractionsofaisha}",
-                        "25 {@item condoms|fractionsofaisha}",
-                        "a {@item dildo|fractionsofaisha}",
-                        "an {@item aphrodisiac|fractionsofaisha}"
-                    ]
-                }
-			]
-		},
-		{
-			"name": "Aphrodisiac",
-			"source": "FractionsofAisha",
-			"baseItem": "potion|phb",
-			"rarity": "none",
-			"type": "P",
-			"weight": 1,
-			"value": 1000,
-			"entries": [
-				"Created with fiveleaves, a single bottle of this potent mixture contains 5 doses which can be ingested orally or applied to body directly.",
-				"Regardless of how it was absorbed, a dose of aphrodisiac puts you into a heightened state of arousal and increases the body's sensitivity for 1 hour. Consuming multiple doses at once increases this duration by 1 hour per dose and intensifies its effects to the point of unbearable arousal, reduced inhibitions, and an inability to think straight."
-			]
-
-		},
-		{
-			"name": "Ball Gag",
-			"source": "FractionsofAisha",
-			"rarity": "none",
-			"type": "OTH",
-			"value": 100,
-			"entries": [
-				"A ball gag is a small, soft, and flexible ball that fits in the mouth. It is designed to be inserted into the mouth and held in place by the teeth, preventing the wearer from speaking or making noise. The ball is usually made of a soft material, such as silicone or latex, and is designed to be comfortable and easy to wear."
-			]
-		},
-		{
-			"name": "Bull Whip",
-			"source": "FractionsofAisha",
-			"rarity": "none",
-			"type": "OTH",
-			"value": 100,
-			"entries": [
-				"A bull whip is a whip with a handle and a long, flexible lash. It is designed to be used for various purposes, such as whipping, flogging, and caning. The lash of the whip is usually made of a soft material, such as leather or synthetic fibers, and is designed to be flexible and durable."
-			]
-		},
-		{
-			"name": "Chastity Belt",
-			"source": "FractionsofAisha",
-			"rarity": "none",
-			"type": "OTH",
-			"weight": 5,
-			"value": 500,
-			"entries": [
-				"A chastity belt is a device that is worn around the waist and is designed to prevent the wearer from having sex. It is usually made of a soft material, such as leather or synthetic fibers, and is designed to be comfortable and easy to wear."
-			]
-		},
-		{
-			"name": "Clamp",
-			"source": "FractionsofAisha",
-			"rarity": "none",
-			"type": "OTH",
-			"value": 100,
-			"entries": [
-				"A clamp is a device that is used to hold an object in place. It is usually made of a soft material, such as leather or synthetic fibers, and is designed to be comfortable and easy to wear."
-			]
-		},
-		{
-			"name": "Condom",
-			"source": "FractionsofAisha",
-			"rarity": "none",
-			"type": "OTH",
-			"value": 1,
-			"entries": [
-				"A condom is a thin, latex or polyurethane membrane that is designed to be worn on the penis during sexual intercourse. It is designed to prevent the transmission of sexually transmitted infections (STIs) and pregnancy."
-			]
-		},
-		{
-			"name": "Dildo",
-			"source": "FractionsofAisha",
-			"rarity": "none",
-			"type": "OTH",
-			"value": 50,
-			"entries": [
-				"A dildo is a sex toy that is designed to be inserted into the vagina or anus during sexual intercourse. It is usually made of a soft material, such as silicone or latex, and is designed to be comfortable and easy to wear."
-			]
-		},
-		{
-			"name": "Leather Collar",
-			"source": "FractionsofAisha",
-			"rarity": "none",
-			"type": "OTH",
-			"value": 100,
-			"entries": [
-				"A leather collar is a collar that is made of a soft material, such as leather or synthetic fibers, and is designed to be comfortable and easy to wear."
-			]
-		},
-		{
-			"name": "Paddle",
-			"source": "FractionsofAisha",
-			"rarity": "none",
-			"type": "OTH",
-			"weight": 3,
-			"value": 100,
-			"entries": [
-				"A paddle is a flat, wooden or plastic board that is used to spank or paddle the wearer. It is usually made of a soft material, such as leather or synthetic fibers, and is designed to be comfortable and easy to wear."
-			]
-		},
-		{
-			"name": "Plug",
-			"source": "FractionsofAisha",
-			"rarity": "none",
-			"type": "OTH",
-			"value": 50,
-			"entries": [
-				"A plug is a small, soft, and flexible ball that fits in the vagina or anus during sexual intercourse. It is designed to be inserted into the vagina or anus and held in place by the muscles, preventing the wearer from having sex."
-			]
-		},
-		{
-			"name": "Rubber Beads",
-			"source": "FractionsofAisha",
-			"rarity": "none",
-			"type": "OTH",
-			"value": 50,
-			"entries": [
-				"Rubber beads are a type of sex toy that are designed to be inserted into the vagina or anus during sexual intercourse. They are usually made of a soft material, such as silicone or latex, and are designed to be comfortable and easy to wear."
-			]
-		},
-		{
-			"name": "Lingerie",
-			"source": "FractionsofAisha",
-			"rarity": "none",
-			"value": 300,
-			"entries": [
-				"Stylish, alluring undergarments made from valuable silk and lace."
-			]
-		},
-		{
-			"name": "Servant's Clothes",
-			"source": "FractionsofAisha",
-			"rarity": "none",
-			"type": "OTH",
-			"value": 500,
-			"entries": [
-				"A set of Servant's Clothes modified to prioritize \"form\" over function. Added frills draw the attention of onlookers and the reduction in fabrics around certain areas suggests that these clothes were made for a different kind of service."
-			]
-		},
-		{
-			"name": "Dancer's Silks",
-			"source": "FractionsofAisha",
-			"rarity": "none",
-			"type": "OTH",
-			"value": 1000,
-			"entries": [
-				"Dancer's silks are a type of clothing that is designed to be worn during sexual intercourse. It is usually made of a soft material, such as silk or satin, and is designed to be comfortable and easy to wear."
-			]
-		},
-		{
-			"name": "Bunny's Delight",
-			"source": "FractionsofAisha",
-			"rarity": "none",
-			"type": "OTH",
-			"value": 200,
-			"entries": [
-				"An amusingly seductive outfit which includes fake rabbit ears and a plug tipped with a white-fluff tail."
-			]
-		},
-		{
-			"name": "Revealing Robes",
-			"source": "FractionsofAisha",
-			"rarity": "none",
-			"type": "OTH",
-			"value": 100,
-			"entries": [
-				"Utterly impractical robes that loosely resemble those traditionally worn by mages. Though, whereas most robes conceal the body, these seem solely concerned with flaunting as much of their wearer's body as possible."
-			]
-		},
-		{
-			"name": "Succubus Crest",
-			"source": "FractionsofAisha",
-			"rarity": "common",
-			"value": 10000,
-			"entries": [
-				"Produced by a special needle, this magic tattoo takes the form of a heart just above the genitals.",
-				"Over the course of 1 minute, this needle can be pressed to the skin, turning into ink which becomes the tattoo. The creature holding the needle can choose the color it takes and add simple symbols or a name to the heart-shaped tattoo. This tattoo lasts until you spend 1 minute removing it, at which point it reverts to a needle.",
-				"The tattoo gives off a magical glow, which shows through clothing and subjects you to the effects of a dose of aphrodisiac until removed."
-			]
-		},
-		{
-			"name": "Bra of Holding",
-			"source": "FractionsofAisha",
-			"rarity": "common",
-			"value": 1250,
-			"entries": [
-				"While wearing this magical bra, up to 10 pounds of tiny objects can be stored within it by slipping them beneath the bra itself or stuffing them down your cleavage, where they vanish into an extradimensional space. Retrieving an item from this bra requires an action.",
-				"If the bra is overloaded, pierced, or torn, it ruptures and is destroyed, and its contents are scattered in the Astral Plane. If the bra is removed, its contents spill out."
-			]
-		},
-		{
-			"name": "Chestwraps of Binding",
-			"source": "FractionsofAisha",
-			"rarity": "common",
-			"value": 2500,
-			"entries": [
-				"A simple length of white cloth which can be wrapped around the chest. While wearing these wrappings, you can speak their command word, causing your breasts to become flat.",
-				"Removing these wrappings or speaking their command word again immediately returns them to their original size."
-			]
-		},
-		{
-			"name": "Portal Panties",
-			"source": "FractionsofAisha",
-			"rarity": "common",
-			"value": 10000,
-			"entries": [
-				"A pair of provocative panties that are magically linked to two pocket portals (included with purchase) labeled with a 'V' and an 'A' respectively. Whenever you wear these panties, your name is inscribed onto one or both of the pocket portals until you remove them; a creature touching one of the pocket portals can speak its command word, linking it to your body.",
-				"Upon speaking the command word again, the link is immediately severed."
-			]
-		},
-		{
-			"name": "Periapt of Proof Against Pregnancy",
-			"source": "FractionsofAisha",
-			"rarity": "common",
-			"value": 7500,
-			"entries": [
-				"This engraved gem appears to be a jewel of small value. While wearing it, it is impossible for you to impregnate or become pregnant."
-			]
-		},
-		{
-			"name": "Gauntlets",
-			"source": "FractionsofAisha",
-			"rarity": "none",
-			"weaponCategory": "martial",
-			"type": "M",
-			"weight": 2,
-			"dmg1": "1d6",
-			"dmgType": "B",
-			"value": 1500,
-			"entries": [
-				"These gauntlets deal 1d6 bludgeoning damage. If you are not wielding any other weapons or a shield, the damage increases to 2d4 bludgeoning damage.",
-				"Monks are proficient with gauntlets and they count as monk weapons. However, attacks made with gauntlets do not count as unarmed strikes."
-			]
-		}
-	],
-	"race": [
+  "_meta": {
+    "sources": [
+      {
+        "json": "FractionsofAisha",
+        "abbreviation": "FoA",
+        "full": "Fractions of Aisha",
+        "color": "0096FF",
+        "version": "1.0.0",
+        "url": "https://github.com/Milisource/FoA-5etools",
+        "authors": ["Demi, Chels, Baitten, and others"],
+        "convertedBy": ["ilikemotorcycles"]
+      }
+    ],
+    "dateAdded": 1729630006,
+    "dateLastModified": 1729630006,
+    "_dateLastModifiedHash": "6ae20ede5a",
+    "edition": "classic"
+  },
+  "item": [
+    {
+      "name": "Courtesan's Pack",
+      "source": "FractionsofAisha",
+      "baseItem": "pack|FoA",
+      "rarity": "none",
+      "type": "G",
+      "weight": 5,
+      "value": 2500,
+      "entries": [
+        "Includes:",
         {
-            "name": "Dullahan",
-            "source": "FractionsofAisha",
-            "creatureTypes": [
-              "fey"
-              ],
-            "size": ["M"],
-            "speed": {
-              "walk": 30
-            },
-            "lineage": "VRGR",
-            "darkvision": 30,
-            "traitTags": ["Uncommon Race"],
-            "languageProficiencies": [
-              {
-                "common": true,
-                "sylvan": true
-              }
-            ],
-            "entries": [
-              {
-                "type": "entries",
-                "name": "Age",
-                "entries": ["Dullahan reach maturity at 30 years of age and live well beyond four centuries."]
-              },
-              {
-                "type": "entries",
-                "name": "Size",
-                "entries": ["Dullahans range from just under 5 to well over 6 feet tall. Regardless of where you fall in that range, your size is medium."]
-              },
-              {
-                "type": "entries",
-                "name": "Headless",
-                "entries": [
-                  "You can detatch or reattach your head to your body at will, rendering you immune to decapitation. While your head is detatched, harmless flames spout from your neck, shedding dim light within a 5-foot radius. While headless:",
-                  {
-                      "type": "list",
-                      "items": [
-                          "You are always aware of the distance and direction from your body to your head as long as they are on the same plane.",
-                          "While seperated, your headless body cannot utilize any senses that require your head, but can still eat, drink, and cast spells requiring verbal components as long as your head can speak.",
-                          "If not being carried, your detatched head can be targeted, has an AC of 10 and automatically fails Dexterity saving throws; if your head and body are both caught in the same area of effect, you are only affected by it once.",
-                          "While detatched, your head can tell when someone is soon to die by natural causes with just a glance and can feel the presence of those nearing their death within a mile it."
-                      ]
-                  }
-                ]
-              },
-              {
-                "type": "entries",
-                "name": "Darkvision",
-                "entries": ["You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."]
-              },
-              {
-                "type": "entries",
-                "name": "Death Coach",
-                "entries": ["As an action, you can call a fey spirit from your shadow that takes the form of a misty, black warhorse, appearing in a space adjacent to you. This horse faithfully serves you as a mount in and out of combat, but cannot take any actions other than dash, disengage, or dodge. As a bonus action, you can call this horse back into your shadow, immediately causing it to dissipate into a black mist. If reduced to 0 hit points, the horse vanishes back into your shadow and cannot be called out again until you have completed a long rest."]
-              }
-            ],
-            "age": {
-              "mature": 30,
-              "max": 900
+          "type": "list",
+          "items": [
+            "a {@item backpack|phb}",
+            "an iron mirror",
+            "an assortment of makeup creams and powders",
+            "a bottle of perfume",
+            "a bottle of fine wine",
+            "two bottles each of personal lubricant and massage oil",
+            "two sets of {@item lingerie|fractionsofaisha}",
+            "25 {@item condoms|fractionsofaisha}",
+            "a {@item dildo|fractionsofaisha}",
+            "an {@item aphrodisiac|fractionsofaisha}"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aphrodisiac",
+      "source": "FractionsofAisha",
+      "baseItem": "potion|phb",
+      "rarity": "none",
+      "type": "P",
+      "weight": 1,
+      "value": 1000,
+      "entries": [
+        "Created with fiveleaves, a single bottle of this potent mixture contains 5 doses which can be ingested orally or applied to body directly.",
+        "Regardless of how it was absorbed, a dose of aphrodisiac puts you into a heightened state of arousal and increases the body's sensitivity for 1 hour. Consuming multiple doses at once increases this duration by 1 hour per dose and intensifies its effects to the point of unbearable arousal, reduced inhibitions, and an inability to think straight."
+      ]
+    },
+    {
+      "name": "Ball Gag",
+      "source": "FractionsofAisha",
+      "rarity": "none",
+      "type": "OTH",
+      "value": 100,
+      "entries": [
+        "A ball gag is a small, soft, and flexible ball that fits in the mouth. It is designed to be inserted into the mouth and held in place by the teeth, preventing the wearer from speaking or making noise. The ball is usually made of a soft material, such as silicone or latex, and is designed to be comfortable and easy to wear."
+      ]
+    },
+    {
+      "name": "Bull Whip",
+      "source": "FractionsofAisha",
+      "rarity": "none",
+      "type": "OTH",
+      "value": 100,
+      "entries": [
+        "A bull whip is a whip with a handle and a long, flexible lash. It is designed to be used for various purposes, such as whipping, flogging, and caning. The lash of the whip is usually made of a soft material, such as leather or synthetic fibers, and is designed to be flexible and durable."
+      ]
+    },
+    {
+      "name": "Chastity Belt",
+      "source": "FractionsofAisha",
+      "rarity": "none",
+      "type": "OTH",
+      "weight": 5,
+      "value": 500,
+      "entries": [
+        "A chastity belt is a device that is worn around the waist and is designed to prevent the wearer from having sex. It is usually made of a soft material, such as leather or synthetic fibers, and is designed to be comfortable and easy to wear."
+      ]
+    },
+    {
+      "name": "Clamp",
+      "source": "FractionsofAisha",
+      "rarity": "none",
+      "type": "OTH",
+      "value": 100,
+      "entries": ["A clamp is a device that is used to hold an object in place. It is usually made of a soft material, such as leather or synthetic fibers, and is designed to be comfortable and easy to wear."]
+    },
+    {
+      "name": "Condom",
+      "source": "FractionsofAisha",
+      "rarity": "none",
+      "type": "OTH",
+      "value": 1,
+      "entries": ["A condom is a thin, latex or polyurethane membrane that is designed to be worn on the penis during sexual intercourse. It is designed to prevent the transmission of sexually transmitted infections (STIs) and pregnancy."]
+    },
+    {
+      "name": "Dildo",
+      "source": "FractionsofAisha",
+      "rarity": "none",
+      "type": "OTH",
+      "value": 50,
+      "entries": ["A dildo is a sex toy that is designed to be inserted into the vagina or anus during sexual intercourse. It is usually made of a soft material, such as silicone or latex, and is designed to be comfortable and easy to wear."]
+    },
+    {
+      "name": "Leather Collar",
+      "source": "FractionsofAisha",
+      "rarity": "none",
+      "type": "OTH",
+      "value": 100,
+      "entries": ["A leather collar is a collar that is made of a soft material, such as leather or synthetic fibers, and is designed to be comfortable and easy to wear."]
+    },
+    {
+      "name": "Paddle",
+      "source": "FractionsofAisha",
+      "rarity": "none",
+      "type": "OTH",
+      "weight": 3,
+      "value": 100,
+      "entries": ["A paddle is a flat, wooden or plastic board that is used to spank or paddle the wearer. It is usually made of a soft material, such as leather or synthetic fibers, and is designed to be comfortable and easy to wear."]
+    },
+    {
+      "name": "Plug",
+      "source": "FractionsofAisha",
+      "rarity": "none",
+      "type": "OTH",
+      "value": 50,
+      "entries": ["A plug is a small, soft, and flexible ball that fits in the vagina or anus during sexual intercourse. It is designed to be inserted into the vagina or anus and held in place by the muscles, preventing the wearer from having sex."]
+    },
+    {
+      "name": "Rubber Beads",
+      "source": "FractionsofAisha",
+      "rarity": "none",
+      "type": "OTH",
+      "value": 50,
+      "entries": [
+        "Rubber beads are a type of sex toy that are designed to be inserted into the vagina or anus during sexual intercourse. They are usually made of a soft material, such as silicone or latex, and are designed to be comfortable and easy to wear."
+      ]
+    },
+    {
+      "name": "Lingerie",
+      "source": "FractionsofAisha",
+      "rarity": "none",
+      "value": 300,
+      "entries": ["Stylish, alluring undergarments made from valuable silk and lace."]
+    },
+    {
+      "name": "Servant's Clothes",
+      "source": "FractionsofAisha",
+      "rarity": "none",
+      "type": "OTH",
+      "value": 500,
+      "entries": [
+        "A set of Servant's Clothes modified to prioritize \"form\" over function. Added frills draw the attention of onlookers and the reduction in fabrics around certain areas suggests that these clothes were made for a different kind of service."
+      ]
+    },
+    {
+      "name": "Dancer's Silks",
+      "source": "FractionsofAisha",
+      "rarity": "none",
+      "type": "OTH",
+      "value": 1000,
+      "entries": ["Dancer's silks are a type of clothing that is designed to be worn during sexual intercourse. It is usually made of a soft material, such as silk or satin, and is designed to be comfortable and easy to wear."]
+    },
+    {
+      "name": "Bunny's Delight",
+      "source": "FractionsofAisha",
+      "rarity": "none",
+      "type": "OTH",
+      "value": 200,
+      "entries": ["An amusingly seductive outfit which includes fake rabbit ears and a plug tipped with a white-fluff tail."]
+    },
+    {
+      "name": "Revealing Robes",
+      "source": "FractionsofAisha",
+      "rarity": "none",
+      "type": "OTH",
+      "value": 100,
+      "entries": ["Utterly impractical robes that loosely resemble those traditionally worn by mages. Though, whereas most robes conceal the body, these seem solely concerned with flaunting as much of their wearer's body as possible."]
+    },
+    {
+      "name": "Succubus Crest",
+      "source": "FractionsofAisha",
+      "rarity": "common",
+      "value": 10000,
+      "entries": [
+        "Produced by a special needle, this magic tattoo takes the form of a heart just above the genitals.",
+        "Over the course of 1 minute, this needle can be pressed to the skin, turning into ink which becomes the tattoo. The creature holding the needle can choose the color it takes and add simple symbols or a name to the heart-shaped tattoo. This tattoo lasts until you spend 1 minute removing it, at which point it reverts to a needle.",
+        "The tattoo gives off a magical glow, which shows through clothing and subjects you to the effects of a dose of aphrodisiac until removed."
+      ]
+    },
+    {
+      "name": "Bra of Holding",
+      "source": "FractionsofAisha",
+      "rarity": "common",
+      "value": 1250,
+      "entries": [
+        "While wearing this magical bra, up to 10 pounds of tiny objects can be stored within it by slipping them beneath the bra itself or stuffing them down your cleavage, where they vanish into an extradimensional space. Retrieving an item from this bra requires an action.",
+        "If the bra is overloaded, pierced, or torn, it ruptures and is destroyed, and its contents are scattered in the Astral Plane. If the bra is removed, its contents spill out."
+      ]
+    },
+    {
+      "name": "Chestwraps of Binding",
+      "source": "FractionsofAisha",
+      "rarity": "common",
+      "value": 2500,
+      "entries": [
+        "A simple length of white cloth which can be wrapped around the chest. While wearing these wrappings, you can speak their command word, causing your breasts to become flat.",
+        "Removing these wrappings or speaking their command word again immediately returns them to their original size."
+      ]
+    },
+    {
+      "name": "Portal Panties",
+      "source": "FractionsofAisha",
+      "rarity": "common",
+      "value": 10000,
+      "entries": [
+        "A pair of provocative panties that are magically linked to two pocket portals (included with purchase) labeled with a 'V' and an 'A' respectively. Whenever you wear these panties, your name is inscribed onto one or both of the pocket portals until you remove them; a creature touching one of the pocket portals can speak its command word, linking it to your body.",
+        "Upon speaking the command word again, the link is immediately severed."
+      ]
+    },
+    {
+      "name": "Periapt of Proof Against Pregnancy",
+      "source": "FractionsofAisha",
+      "rarity": "common",
+      "value": 7500,
+      "entries": ["This engraved gem appears to be a jewel of small value. While wearing it, it is impossible for you to impregnate or become pregnant."]
+    },
+    {
+      "name": "Gauntlets",
+      "source": "FractionsofAisha",
+      "rarity": "none",
+      "weaponCategory": "martial",
+      "type": "M",
+      "weight": 2,
+      "dmg1": "1d6",
+      "dmgType": "B",
+      "value": 1500,
+      "entries": [
+        "These gauntlets deal 1d6 bludgeoning damage. If you are not wielding any other weapons or a shield, the damage increases to 2d4 bludgeoning damage.",
+        "Monks are proficient with gauntlets and they count as monk weapons. However, attacks made with gauntlets do not count as unarmed strikes."
+      ]
+    }
+  ],
+  "race": [
+    {
+      "name": "Dullahan",
+      "source": "FractionsofAisha",
+      "creatureTypes": ["fey"],
+      "size": ["M"],
+      "speed": {
+        "walk": 30
+      },
+      "lineage": "VRGR",
+      "darkvision": 30,
+      "traitTags": ["Uncommon Race"],
+      "languageProficiencies": [
+        {
+          "common": true,
+          "sylvan": true
+        }
+      ],
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Age",
+          "entries": ["Dullahan reach maturity at 30 years of age and live well beyond four centuries."]
+        },
+        {
+          "type": "entries",
+          "name": "Size",
+          "entries": ["Dullahans range from just under 5 to well over 6 feet tall. Regardless of where you fall in that range, your size is medium."]
+        },
+        {
+          "type": "entries",
+          "name": "Headless",
+          "entries": [
+            "You can detatch or reattach your head to your body at will, rendering you immune to decapitation. While your head is detatched, harmless flames spout from your neck, shedding dim light within a 5-foot radius. While headless:",
+            {
+              "type": "list",
+              "items": [
+                "You are always aware of the distance and direction from your body to your head as long as they are on the same plane.",
+                "While seperated, your headless body cannot utilize any senses that require your head, but can still eat, drink, and cast spells requiring verbal components as long as your head can speak.",
+                "If not being carried, your detatched head can be targeted, has an AC of 10 and automatically fails Dexterity saving throws; if your head and body are both caught in the same area of effect, you are only affected by it once.",
+                "While detatched, your head can tell when someone is soon to die by natural causes with just a glance and can feel the presence of those nearing their death within a mile it."
+              ]
             }
-          },
-          {
-            "name": "Kitsune",
-            "source": "FractionsofAisha",
-            "creatureTypes": [
-              "humanoid"
-            ],
-            "size": ["M"],
-            "speed": {
-              "walk": 30
-            },
-            "darkvision": 30,
-            "lineage": "VRGR",
-            "traitTags": ["Uncommon Race", "Skill Proficiency"],
-            "languageProficiencies": [
-              {
-                "common": true,
-                "any": 1
-              }
-            ],
-            "entries": [
-              {
-                "type": "entries",
-                "name": "Size",
-                "entries": ["Kitsune range from just under 5 to 6 feet tall. Your size is medium."]
-              },
-              {
-                "type": "entries",
-                "name": "Age",
-                "entries": ["Kitsune reach adulthood at the age of 100, when they gain the ability to grow additional tails. Kitsune can live for upwards of 1000 years based on the number of tails obtained throughout the course of their life."]
-              },
-              {
-                "type": "entries",
-                "name": "Fox's Cunning",
-                "entries": ["You gain proficiency in the {@skill Deception|phb} skill."]
-              },
-              {
-                "type": "entries",
-                "name": "Darkvision",
-                "entries": ["You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."]
-              },
-              {
-                "type": "entries",
-                "name": "Trickster",
-                "entries": ["You know the {@spell Minor Illusion|phb} cantrip; you additionally gain the ability to cast the {@spell Disguise Self|phb} spell with this trait, and at 3rd level, you gain the ability to cast the {@spell Mirror Image|phb} spell with this trait. you regain the ability to cast each of these spells when you finish a long rest. Your spellcasting ability for these spells is Charisma."]
-              },
-              {
-                "type": "entries",
-                "name": "Kitsunebi",
-                "entries": ["You know the {@spell Dancing Lights|phb} cantrip; when you cast the cantrip with this trait, the lights take the appearance of blue flames."]
-              },
-              {
-                "type": "entries",
-                "name": "Tails",
-                "entries": ["Kitsune are born with a single, large fox tail which serves as their connection to their youkai ancestors. You gain an additional tail at the 3rd, 5th, 7th, 9th, 11th, 13th, 15th, and 17th levels."]
-              }
-            ]
-          },
-          {
-            "name": "Half-Succubus",
-            "source": "FractionsofAisha",
-            "creatureTypes": [
-              "humanoid"
-            ],
-            "size": ["S","M"],
-            "speed": {
-              "walk": 30,
-              "fly": 30
-            },
-            "darkvision": 30,
-            "lineage": "VRGR",
-            "traitTags": ["Uncommon Race", "Skill Proficiency"],
-            "languageProficiencies": [
-              {
-                "common": true,
-                "any": 1
-              }
-            ],
-            "entries": [
-              {
-                "type": "entries",
-                "name": "Size",
-                "entries": ["Succubi range from 4 to 7 feet tall. Your size is either Small or Medium."]
-              },
-              {
-                "type": "entries",
-                "name": "Age",
-                "entries": ["Succubi reach adulthood at 19, marked by the full development of their tails. Their lifespan can extend for thousands of years, with their longevity directly tied to how frequently they feed. In theory, an unchecked Succubus could achieve immortality."]
-              },
-              {
-                "type": "entries",
-                "name": "Speed.",
-                "entries": ["Your walking speed is 30 feet. You also have a flying speed of 30 feet."]
-              },
-              {
-                "type": "entries",
-                "name": "Darkvision",
-                "entries": ["You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."]
-              },
-              {
-                "type": "entries",
-                "name": "Red Handed",
-                "entries": ["You have two creature types: Fiend and Humanoid. You can be affected by a game effect if it works on either of your creature types."]
-              },
-              {
-                "type": "entries",
-                "name": "Half-Truth",
-                "entries":["When you make a Deception or Persuasion check and roll lower than a 9, you can treat the roll as a 9. You can use this feature a number of times equal to your proficiency bonus per long rest."]
-              },
-              {
-                "type": "entries",
-                "name": "Mischief",
-                "entries":["You gain a set of wings, which give you a flying speed of 30 feet. To use this speed, you can’t be wearing heavy armor.",
-                "Additionally, when you are hit with Radiant damage, you cannot regain hit points until the end of your next turn."]
-              },
-              {
-                "type": "entries",
-                "name": "Perfect Body",
-                "entries":["You can adjust the proportions of your person at will, such as making your breasts larger, or your hips wider. This does not require an action."]
-              },
-              {
-                "type": "entries",
-                "name": "Racial Feats",
-                "entries":["The following feats are available to you as a Half-Succubus: {@feat Forked Tongue|FoA}, {@feat Siren’s Snare|FoA}, and {@feat Stalk and Seduce|FoA}."]
-              }
-            ]
-          },
-          {
-            "name": "Oni",
-            "source": "FractionsofAisha",
-            "creatureTypes": [
-              "humanoid"
-            ],
-            "ability": [
-              {
-              "con": 2
-              }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Darkvision",
+          "entries": ["You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."]
+        },
+        {
+          "type": "entries",
+          "name": "Death Coach",
+          "entries": [
+            "As an action, you can call a fey spirit from your shadow that takes the form of a misty, black warhorse, appearing in a space adjacent to you. This horse faithfully serves you as a mount in and out of combat, but cannot take any actions other than dash, disengage, or dodge. As a bonus action, you can call this horse back into your shadow, immediately causing it to dissipate into a black mist. If reduced to 0 hit points, the horse vanishes back into your shadow and cannot be called out again until you have completed a long rest."
+          ]
+        }
+      ],
+      "age": {
+        "mature": 30,
+        "max": 900
+      }
+    },
+    {
+      "name": "Kitsune",
+      "source": "FractionsofAisha",
+      "creatureTypes": ["humanoid"],
+      "size": ["M"],
+      "speed": {
+        "walk": 30
+      },
+      "darkvision": 30,
+      "lineage": "VRGR",
+      "traitTags": ["Uncommon Race", "Skill Proficiency"],
+      "languageProficiencies": [
+        {
+          "common": true,
+          "any": 1
+        }
+      ],
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Size",
+          "entries": ["Kitsune range from just under 5 to 6 feet tall. Your size is medium."]
+        },
+        {
+          "type": "entries",
+          "name": "Age",
+          "entries": ["Kitsune reach adulthood at the age of 100, when they gain the ability to grow additional tails. Kitsune can live for upwards of 1000 years based on the number of tails obtained throughout the course of their life."]
+        },
+        {
+          "type": "entries",
+          "name": "Fox's Cunning",
+          "entries": ["You gain proficiency in the {@skill Deception|phb} skill."]
+        },
+        {
+          "type": "entries",
+          "name": "Darkvision",
+          "entries": ["You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."]
+        },
+        {
+          "type": "entries",
+          "name": "Trickster",
+          "entries": [
+            "You know the {@spell Minor Illusion|phb} cantrip; you additionally gain the ability to cast the {@spell Disguise Self|phb} spell with this trait, and at 3rd level, you gain the ability to cast the {@spell Mirror Image|phb} spell with this trait. you regain the ability to cast each of these spells when you finish a long rest. Your spellcasting ability for these spells is Charisma."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Kitsunebi",
+          "entries": ["You know the {@spell Dancing Lights|phb} cantrip; when you cast the cantrip with this trait, the lights take the appearance of blue flames."]
+        },
+        {
+          "type": "entries",
+          "name": "Tails",
+          "entries": ["Kitsune are born with a single, large fox tail which serves as their connection to their youkai ancestors. You gain an additional tail at the 3rd, 5th, 7th, 9th, 11th, 13th, 15th, and 17th levels."]
+        }
+      ]
+    },
+    {
+      "name": "Half-Succubus",
+      "source": "FractionsofAisha",
+      "creatureTypes": ["humanoid"],
+      "size": ["S", "M"],
+      "speed": {
+        "walk": 30,
+        "fly": 30
+      },
+      "darkvision": 30,
+      "lineage": "VRGR",
+      "traitTags": ["Uncommon Race", "Skill Proficiency"],
+      "languageProficiencies": [
+        {
+          "common": true,
+          "any": 1
+        }
+      ],
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Size",
+          "entries": ["Succubi range from 4 to 7 feet tall. Your size is either Small or Medium."]
+        },
+        {
+          "type": "entries",
+          "name": "Age",
+          "entries": [
+            "Succubi reach adulthood at 19, marked by the full development of their tails. Their lifespan can extend for thousands of years, with their longevity directly tied to how frequently they feed. In theory, an unchecked Succubus could achieve immortality."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Speed.",
+          "entries": ["Your walking speed is 30 feet. You also have a flying speed of 30 feet."]
+        },
+        {
+          "type": "entries",
+          "name": "Darkvision",
+          "entries": ["You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."]
+        },
+        {
+          "type": "entries",
+          "name": "Red Handed",
+          "entries": ["You have two creature types: Fiend and Humanoid. You can be affected by a game effect if it works on either of your creature types."]
+        },
+        {
+          "type": "entries",
+          "name": "Half-Truth",
+          "entries": ["When you make a Deception or Persuasion check and roll lower than a 9, you can treat the roll as a 9. You can use this feature a number of times equal to your proficiency bonus per long rest."]
+        },
+        {
+          "type": "entries",
+          "name": "Mischief",
+          "entries": [
+            "You gain a set of wings, which give you a flying speed of 30 feet. To use this speed, you can’t be wearing heavy armor.",
+            "Additionally, when you are hit with Radiant damage, you cannot regain hit points until the end of your next turn."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Perfect Body",
+          "entries": ["You can adjust the proportions of your person at will, such as making your breasts larger, or your hips wider. This does not require an action."]
+        },
+        {
+          "type": "entries",
+          "name": "Racial Feats",
+          "entries": ["The following feats are available to you as a Half-Succubus: {@feat Forked Tongue|FoA}, {@feat Siren’s Snare|FoA}, and {@feat Stalk and Seduce|FoA}."]
+        }
+      ]
+    },
+    {
+      "name": "Oni",
+      "source": "FractionsofAisha",
+      "creatureTypes": ["humanoid"],
+      "ability": [
+        {
+          "con": 2
+        }
+      ],
+      "size": ["M"],
+      "speed": {
+        "walk": 30
+      },
+      "darkvision": 60,
+      "traitTags": ["Uncommon Race", "Natural Weapon"],
+      "languageProficiencies": [
+        {
+          "common": true,
+          "any": 1
+        }
+      ],
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Age",
+          "entries": [
+            "Although Oni typically reach physical maturity at about the same age as humans, their maturation will rapidly slow beyond that, leading to them as an extremely long lived race; often reaching up to and exceeding 750 years of age should they survive long enough."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Size",
+          "entries": ["The average Oni ranges from just under 6 feet tall to bordering the fringes of 8 feet in height. They are most seen with well maintained physiques and solid frames. Your size is Medium."]
+        },
+        {
+          "type": "entries",
+          "name": "Darkvision",
+          "entries": [
+            "As an indication of their more predatory nature - Oni are readily capable hunters in twilight forests and night plains. You have superior vision in dark and dim conditions. You can see within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Imperial Will",
+          "entries": ["Once per long rest, when you fail an ability check or a saving throw, you can reroll the d20 and add your proficiency bonus to the new roll if you don’t already add it. If you do so, you must use the new roll."]
+        },
+        {
+          "type": "entries",
+          "name": "Pride of Horn and Claw",
+          "entries": [
+            "You have sharp, durable claws at the ends of your fingertips and nearly indestructible horns. You can use your claws to make unarmed strikes. When you hit with them, the strike deals 1d4 + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike. Additionally, you gain advantage on Athletics checks when using your horns to ram objects or break down doors."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Sub-Types",
+          "entries": ["Four major Sub-Types of Oni exist within this world. That being the Dai-Oni, Ma-Oni, Taku-Oni and Ryo-Oni. Choose one of these subraces."]
+        }
+      ],
+      "subraces": [
+        {
+          "name": "Dai-Oni",
+          "source": "FractionsofAisha",
+          "raceName": "Oni",
+          "raceSource": "FractionsofAisha",
+          "ability": [
+            {
+              "str": 1
+            }
           ],
-            "size": ["M"],
-            "speed": {
-              "walk": 30
+          "entries": [
+            {
+              "type": "entries",
+              "name": "Brutish Build",
+              "entries": ["You count as one size larger for determining your carrying capacity and the weight you can push, drag, or lift - as well as for the purposes of initiating and maintaining a grapple, as well as moving a grappled creature."]
             },
-            "darkvision": 60,
-            "traitTags": ["Uncommon Race", "Natural Weapon"],
-            "languageProficiencies": [
-              {
-                "common": true,
-                "any": 1
-              }
-            ],
-            "entries": [
-              {
-                "type": "entries",
-                "name": "Age",
-                "entries": ["Although Oni typically reach physical maturity at about the same age as humans, their maturation will rapidly slow beyond that, leading to them as an extremely long lived race; often reaching up to and exceeding 750 years of age should they survive long enough."]
-              },
-              {
-                "type": "entries",
-                "name": "Size",
-                "entries": ["The average Oni ranges from just under 6 feet tall to bordering the fringes of 8 feet in height. They are most seen with well maintained physiques and solid frames. Your size is Medium."]
-              },
-              {
-                "type": "entries",
-                "name": "Darkvision",
-                "entries": ["As an indication of their more predatory nature - Oni are readily capable hunters in twilight forests and night plains. You have superior vision in dark and dim conditions. You can see within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."]
-              },
-              {
-                "type": "entries",
-                "name": "Imperial Will",
-                "entries": ["Once per long rest, when you fail an ability check or a saving throw, you can reroll the d20 and add your proficiency bonus to the new roll if you don’t already add it. If you do so, you must use the new roll."]
-              },
-              {
-                "type": "entries",
-                "name": "Pride of Horn and Claw",
-                "entries": ["You have sharp, durable claws at the ends of your fingertips and nearly indestructible horns. You can use your claws to make unarmed strikes. When you hit with them, the strike deals 1d4 + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike. Additionally, you gain advantage on Athletics checks when using your horns to ram objects or break down doors."]
-              },
-              {
-                "type": "entries",
-                "name": "Sub-Types",
-                "entries": ["Four major Sub-Types of Oni exist within this world. That being the Dai-Oni, Ma-Oni, Taku-Oni and Ryo-Oni. Choose one of these subraces."]
-              }
-            ],
-            "subraces": [
-              {
-                "name": "Dai-Oni",
-                "source": "FractionsofAisha",
-                "raceName": "Oni",
-                "raceSource": "FractionsofAisha",
-                "ability": [
-                  {
-                    "str": 1
-                  }
-                ],
-                "entries": [
-                  {
-                    "type": "entries",
-                    "name": "Brutish Build",
-                    "entries": ["You count as one size larger for determining your carrying capacity and the weight you can push, drag, or lift - as well as for the purposes of initiating and maintaining a grapple, as well as moving a grappled creature."]
-                  },
-                  {
-                    "type": "entries",
-                    "name": "Thickly Muscled",
-                    "entries": ["You have densely woven muscle fibres, affording you incredible durability only enhanced by the adrenaline felt from wading into battle unarmored. When you aren’t wearing armor or a shield, your base AC is 13 + your Strength modifier."]
-                  }
-                ]
-              },
-              {
-                "name": "Ma-Oni",
-                "source": "FractionsofAisha",
-                "raceName": "Oni",
-                "raceSource": "FractionsofAisha",
-                "ability": [
-                  {
-                    "choose": {
-                        "from": [
-                            "int",
-                            "cha"
-                        ],
-                        "amount": 1
-                    }
-                }
-                ], 
-                "entries": [
-                  {
-                    "type": "entries",
-                    "name": "Magical Prodigy",
-                    "entries": ["You learn one 1st level Evocation, Conjuration, or Transmutation spell of your choice from the {@filter Wizard|spells|class=Wizard}, {@filter Warlock|spells|class=Warlock}, or {@filter Sorcerer|spells|class=Sorcerer} spell list and can cast it using this feature for free once per long rest. You can choose Intelligence or Charisma as your spellcasting ability for this spell when you make your choice."]
-                  },
-                  {
-                    "type": "entries",
-                    "name": "Arcane Blood",
-                    "entries": ["You gain resistance to Force damage."]
-                  }
-                ]
-              },
-              {
-                "name": "Shu-Oni",
-                "source": "FractionsofAisha",
-                "raceName": "Oni",
-                "raceSource": "FractionsofAisha",
-                "ability": [
-                  {
-                    "wis": 1
-                  }
-                ], 
-                "entries": [
-                  {
-                    "type": "entries",
-                    "name": "Dependable Presence",
-                    "entries": ["When an ally within 30 feet of you that can see or hear you fails a saving throw, misses an attack roll, or fails an ability check - you can use a reaction to incite a spur of encouragement. They can choose to re-roll the d20 and potentially turn it into a success.",
-                    "You can use this feature a number of times equal to half your Proficiency Bonus rounded up, and you regain all expended uses when you finish a long rest."]
-                  },
-                  {
-                    "type": "entries",
-                    "name": "Thoughtful Practice",
-                    "entries": ["You have always made it a point to keep an active and focused mind in learning and honing your skills. When you finish a long rest, choose one skill that you have proficiency in to become practiced in. Whenever you make an ability check with the chosen skill, roll a d4 and add the number rolled to the check’s total."]
-                  }
-                ]
-              },
-              {
-                "name": "Ryo-Oni",
-                "source": "FractionsofAisha",
-                "raceName": "Oni",
-                "raceSource": "FractionsofAisha",
-                "ability": [
-                  {
-                    "choose": {
-                        "from": [
-                            "int",
-                            "cha",
-                            "wis",
-                            "str",
-                            "con",
-                            "dex"
-                        ],
-                        "amount": 1
-                    }
-                }
-                ], 
-                "entries": [
-                  {
-                    "type": "entries",
-                    "name": "Beyond your Limits",
-                    "entries": ["When faced with the greatest of adversity, you are willing to bring yourself to the very brink to survive.",  
-                          "Once per long rest, when you are reduced to 0 hit points but not killed outright, you can expend up to a number of remaining hit dice equal to your proficiency bonus and roll them normally to be dropped to the resulting HP total instead. One minute after using this feature, or when you perceive your surroundings as safe, your HP is reduced to 0.",
-                          "If you fall to 0 HP again before the effect ends - you immediately start with one failed death saving throw."]
-                  },
-                  {
-                    "type": "entries",
-                    "name": "Keen Intuition",
-                    "entries": ["Walking the line between the mistrusted Oni and the accepted races of the land has given you better insight into how others perceive you. You make {@skill Insight|phb} checks with advantage when determining if a creature is lying to you or harboring ill intent towards you."]
-                  }
-                ]
-              }
-            ]
-          }
-	     ],
-	"feat": [
-		{
-			"name": "Stalk and Seduce",
-			"source": "FractionsofAisha",
-            "prerequisite": [
-                {
-                    "race": [
-                        {
-                            "name": "Half-Succubus"
-                        }
-                    ]
-                }
-            ],
-			"entries": [
-				"As an action, you change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight but not so much that your size changes. You can make yourself appear as a member of another race, though none of your game statistics change. You can't duplicate the appearance of an individual you've never seen, and you must adopt a form that has the same basic arrangement of limbs that you have; if your new form does not have wings, you cannot use the flying speed granted by Mischief. Your clothing and equipment aren't changed by this trait.",
-				"You stay in the new form until you use an action to revert to your true form or until you die."
-			]
-		},
+            {
+              "type": "entries",
+              "name": "Thickly Muscled",
+              "entries": [
+                "You have densely woven muscle fibres, affording you incredible durability only enhanced by the adrenaline felt from wading into battle unarmored. When you aren’t wearing armor or a shield, your base AC is 13 + your Strength modifier."
+              ]
+            }
+          ]
+        },
         {
-			"name": "Forked Tongue",
-			"source": "FractionsofAisha",
-            "prerequisite": [
-                {
-                    "race": [
-                        {
-                            "name": "Half-Succubus"
-                        }
-                    ]
-                }
-            ],
-			"entries": [
-				"You have an exceedingly long tongue, and gain Proficiency in {@skill Deception|phb} and {@skill Persuasion|phb}. If you already have Proficiency with these chosen abilities, you can make one expertise, meaning your proficiency bonus is doubled for any ability check you make that uses that proficiency."
-			]
-		},
+          "name": "Ma-Oni",
+          "source": "FractionsofAisha",
+          "raceName": "Oni",
+          "raceSource": "FractionsofAisha",
+          "ability": [
+            {
+              "choose": {
+                "from": ["int", "cha"],
+                "amount": 1
+              }
+            }
+          ],
+          "entries": [
+            {
+              "type": "entries",
+              "name": "Magical Prodigy",
+              "entries": [
+                "You learn one 1st level Evocation, Conjuration, or Transmutation spell of your choice from the {@filter Wizard|spells|class=Wizard}, {@filter Warlock|spells|class=Warlock}, or {@filter Sorcerer|spells|class=Sorcerer} spell list and can cast it using this feature for free once per long rest. You can choose Intelligence or Charisma as your spellcasting ability for this spell when you make your choice."
+              ]
+            },
+            {
+              "type": "entries",
+              "name": "Arcane Blood",
+              "entries": ["You gain resistance to Force damage."]
+            }
+          ]
+        },
         {
-			"name": "Siren’s Snare",
-			"source": "FractionsofAisha",
-            "prerequisite": [
+          "name": "Shu-Oni",
+          "source": "FractionsofAisha",
+          "raceName": "Oni",
+          "raceSource": "FractionsofAisha",
+          "ability": [
+            {
+              "wis": 1
+            }
+          ],
+          "entries": [
+            {
+              "type": "entries",
+              "name": "Dependable Presence",
+              "entries": [
+                "When an ally within 30 feet of you that can see or hear you fails a saving throw, misses an attack roll, or fails an ability check - you can use a reaction to incite a spur of encouragement. They can choose to re-roll the d20 and potentially turn it into a success.",
+                "You can use this feature a number of times equal to half your Proficiency Bonus rounded up, and you regain all expended uses when you finish a long rest."
+              ]
+            },
+            {
+              "type": "entries",
+              "name": "Thoughtful Practice",
+              "entries": [
+                "You have always made it a point to keep an active and focused mind in learning and honing your skills. When you finish a long rest, choose one skill that you have proficiency in to become practiced in. Whenever you make an ability check with the chosen skill, roll a d4 and add the number rolled to the check’s total."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ryo-Oni",
+          "source": "FractionsofAisha",
+          "raceName": "Oni",
+          "raceSource": "FractionsofAisha",
+          "ability": [
+            {
+              "choose": {
+                "from": ["int", "cha", "wis", "str", "con", "dex"],
+                "amount": 1
+              }
+            }
+          ],
+          "entries": [
+            {
+              "type": "entries",
+              "name": "Beyond your Limits",
+              "entries": [
+                "When faced with the greatest of adversity, you are willing to bring yourself to the very brink to survive.",
+                "Once per long rest, when you are reduced to 0 hit points but not killed outright, you can expend up to a number of remaining hit dice equal to your proficiency bonus and roll them normally to be dropped to the resulting HP total instead. One minute after using this feature, or when you perceive your surroundings as safe, your HP is reduced to 0.",
+                "If you fall to 0 HP again before the effect ends - you immediately start with one failed death saving throw."
+              ]
+            },
+            {
+              "type": "entries",
+              "name": "Keen Intuition",
+              "entries": [
+                "Walking the line between the mistrusted Oni and the accepted races of the land has given you better insight into how others perceive you. You make {@skill Insight|phb} checks with advantage when determining if a creature is lying to you or harboring ill intent towards you."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Merfolk",
+      "source": "FractionsofAisha",
+      "creatureTypes": ["humanoid"],
+      "size": ["M"],
+      "speed": {
+        "walk": 20,
+        "swim": 40
+      },
+      "lineage": "VRGR",
+      "darkvision": 60,
+      "traitTags": ["Uncommon Race", "Amphibious"],
+      "languageProficiencies": [
+        {
+          "common": true,
+          "any": 1
+        }
+      ],
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Age",
+          "entries": ["Though most lone Merfolk tend to die fairly young, the average Merfolk can live upwards of 200 years when maintaining a healthy lifestyle. "]
+        },
+        {
+          "type": "entries",
+          "name": "Size",
+          "entries": ["Merfolk vary greatly in size, but roughly fall into a range of five to eight feet from head to tailtip. Your size is Medium. "]
+        },
+        {
+          "type": "entries",
+          "name": "Alignment",
+          "entries": ["While supposed covens of evil Merfolk do exist, the vast majority of their race tend towards good alignments."]
+        },
+        {
+          "type": "entries",
+          "name": "Darkvision",
+          "entries": ["You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."]
+        },
+        {
+          "type": "entries",
+          "name": "Limited Amphibiousness",
+          "entries": ["You can breathe air and water, but you need to be submerged at least once every 8 hours to avoid suffocating. Additionally, you have resistance to cold damage."]
+        },
+        {
+          "type": "entries",
+          "name": "Water-Speaker",
+          "entries": [
+            "Aquatic animals have an extraordinary affinity with your people. You can communicate simple ideas to any Beast that has a swimming speed. It can understand your words, though you have no special ability to understand it in return."
+          ]
+        }
+      ],
+      "subraces": [
+        {
+          "name": "Lakeborn",
+          "source": "FractionsofAisha",
+          "entries": [
+            {
+              "type": "entries",
+              "name": "Lakeborn Lore",
+              "entries": ["You gain proficiency in {@skill History|phb} and {@skill Nature|phb}."]
+            },
+            {
+              "type": "entries",
+              "name": "Merfolk Mysteries",
+              "entries": [
+                "You learn the {@spell Shape Water|xge} cantrip. Starting at 3rd level, you can cast {@spell Create or Destroy Water|phb} with this trait.",
+                "Starting at 5th level, you can also cast the {@spell Wall of Water|xge} spell with this trait. Once you cast Create or Destroy Water or Wall of Water with this trait, you can’t do so again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.",
+                "Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race)."
+              ]
+            },
+            {
+              "type": "entries",
+              "name": "Hearty Specimens",
+              "entries": ["You have advantage on saving throws against disease and being poisoned, and you have resistance to poison damage."]
+            }
+          ]
+        },
+        {
+          "name": "Riverborn",
+          "source": "FractionsofAisha",
+          "entries": [
+            {
+              "type": "entries",
+              "name": "Riverborn Talents",
+              "entries": ["You gain proficiency in {@skill Athletics|phb} and {@skill Perception|phb}."]
+            },
+            {
+              "type": "entries",
+              "name": "Upstream Swimming",
+              "entries": [
+                "As a bonus action, you can make a running long jump directly towards an enemy without needing to move first. This jump does not expend any of your movement, and you may choose to use your Dexterity Score instead of your Strength Score when determining the maximum distance you may jump.",
+                "The first enemy you hit with a melee weapon attack after landing takes an additional amount of damage equal to your proficiency bonus. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+              ]
+            },
+            {
+              "type": "entries",
+              "name": "Mask of the Wild",
+              "entries": ["You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."]
+            }
+          ]
+        },
+        {
+          "name": "Mudskip",
+          "source": "FractionsofAisha",
+          "speed": {
+            "walk": 30,
+            "swim": 20,
+            "burrow": 5
+          },
+          "entries": [
+            {
+              "type": "entries",
+              "name": "Mudskip Practices",
+              "entries": ["You gain proficiency in {@skill Medicine|phb} and {@skill Survival|phb}."]
+            },
+            {
+              "type": "entries",
+              "name": "Amphibious Adaptations",
+              "entries": ["Your base walking speed increases to 30ft, and your base swimming speed is reduced to 20ft. Additionally, you lose the Limited Amphibiousness trait. You gain a burrowing speed of 5ft."],
+              "data": {
+                "overwrite": "Limited Amphibiousness"
+              }
+            },
+            {
+              "type": "entries",
+              "name": "Expel Stores",
+              "entries": [
+                "When you take the Attack action on your turn, you can replace one of your attacks with the ability to violently spew some of your internally-stored siltwater at a creature within 30ft of you. The target must make a Dexterity saving throw (DC = 8 + your Constitution modifier + your proficiency bonus). On a failed save, the creature takes {@dice 1d6} cold damage, and must subtract {@dice 1d6} from the next attack roll it makes before the start of your next turn.",
+                "On a successful save, it takes half as much damage. This damage increases by {@dice 1d6} when you reach 5th level ({@dice 2d6}), 11th level ({@dice 3d6}), and 17th level ({@dice 4d6}). You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. "
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Deep Sea",
+          "source": "FractionsofAisha",
+          "entries": [
+            {
+              "type": "entries",
+              "name": "Deep Sea Secrets",
+              "entries": ["You gain proficiency in {@skill Arcana|phb} and {@skill Stealth|phb}."]
+            },
+            {
+              "type": "entries",
+              "name": "Tentacled Fiends",
+              "entries": [
+                "Your adaptation to the deep sea has changed you to become a far better predator than most. Choose one of the following features, which you gain:",
                 {
-                    "race": [
-                        {
-                            "name": "Half-Succubus"
-                        }
-                    ]
+                  "type": "list",
+                  "items": [
+                    "Segments of your body gain an otherworldly glow, lighting up at your command. At will, you can cause yourself to emit bright light in a 10ft radius and dim light for 10ft beyond that. Additionally, starting at 3rd level, you can cast {@spell Faerie Fire|phb} and {@spell Enthrall|phb} with this trait. Once you cast Faerie Fire or Enthrall with this trait, you can’t do so again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).",
+                    "In lieu of a tail, your waist splits into a number of tentacled appendages- Eight total. The tentacles can manipulate an object, open or close a door or container, pick up or set down a Tiny object, or wield a weapon that has the light property. Each one is also a natural weapon, which you can use to make an unarmed strike with. If you hit, they do {@dice 1d4} + your strength modifier bludgeoning damage. Immediately after hitting, you can try to grapple the target as a bonus action. Your walk and swim speeds are reduced by 5ft for each tentacle holding an item, or for each creature you are grappling. Additionally, if you use a tentacle to perform any of the listed actions here, your speed is reduced by 5ft until the end of your turn."
+                  ]
                 }
-            ],
-			"entries": [
-				"Your tail is long enough to wrap around a creature. You can attempt to grapple one creature within 10 feet of you using Dexterity (Acrobatics) or Strength (Athletics) as a bonus action. On a successful grapple, they are moved 5ft closer to you.",
-                "If you have a creature grappled using this feature, they cannot speak louder than a whisper or shout for help. Suppressing verbal components."
-			]
-		}
-	]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
