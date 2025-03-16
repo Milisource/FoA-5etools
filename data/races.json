@@ -7,7 +7,7 @@
 				"full": "Fractions of Aisha",
                 "color": "0096FF",
 				"version": "1.0.0",
-				"url": "https://youareanidiot.org",
+				"url": "https://github.com/Milisource/FoA-5etools",
 				"authors": [
 					"Demi, Chels, Baitten, and others"
 				],
@@ -140,7 +140,13 @@
                 "entries": ["Kitsune are born with a single, large fox tail which serves as their connection to their youkai ancestors. You gain an additional tail at the 3rd, 5th, 7th, 9th, 11th, 13th, 15th, and 17th levels."]
               }
             ]
-
+          },
+          {
+            "name": "Makai",
+            "source": "FractionsofAisha",
+            "creatureTypes": [
+              "humanoid"
+            ]
           }
 	]
 }
