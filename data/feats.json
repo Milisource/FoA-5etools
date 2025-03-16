@@ -1,0 +1,76 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "FractionsofAisha",
+				"abbreviation": "FoA",
+				"full": "Fractions of Aisha",
+                "color": "0096FF",
+				"version": "1.0.0",
+				"url": "https://github.com/Milisource/FoA-5etools",
+				"authors": [
+					"Demi, Chels, Baitten, and others"
+				],
+				"convertedBy": [
+					"ilikemotorcycles"
+				]
+			}
+		],
+		"dateAdded": 1729630006,
+		"dateLastModified": 1729630006,
+		"_dateLastModifiedHash": "6ae20ede5a",
+		"edition": "classic"
+	},
+	"feat": [
+		{
+			"name": "Stalk and Seduce",
+			"source": "FractionsofAisha",
+            "prerequisite": [
+                {
+                    "race": [
+                        {
+                            "name": "Half-Succubus"
+                        }
+                    ]
+                }
+            ],
+			"entries": [
+				"As an action, you change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight but not so much that your size changes. You can make yourself appear as a member of another race, though none of your game statistics change. You can't duplicate the appearance of an individual you've never seen, and you must adopt a form that has the same basic arrangement of limbs that you have; if your new form does not have wings, you cannot use the flying speed granted by Mischief. Your clothing and equipment aren't changed by this trait.",
+				"You stay in the new form until you use an action to revert to your true form or until you die."
+			]
+		},
+        {
+			"name": "Forked Tongue",
+			"source": "FractionsofAisha",
+            "prerequisite": [
+                {
+                    "race": [
+                        {
+                            "name": "Half-Succubus"
+                        }
+                    ]
+                }
+            ],
+			"entries": [
+				"You have an exceedingly long tongue, and gain Proficiency in {@skill Deception|phb} and {@skill Persuasion|phb}. If you already have Proficiency with these chosen abilities, you can make one expertise, meaning your proficiency bonus is doubled for any ability check you make that uses that proficiency."
+			]
+		},
+        {
+			"name": "Siren’s Snare",
+			"source": "FractionsofAisha",
+            "prerequisite": [
+                {
+                    "race": [
+                        {
+                            "name": "Half-Succubus"
+                        }
+                    ]
+                }
+            ],
+			"entries": [
+				"Your tail is long enough to wrap around a creature. You can attempt to grapple one creature within 10 feet of you using Dexterity (Acrobatics) or Strength (Athletics) as a bonus action. On a successful grapple, they are moved 5ft closer to you.",
+                "If you have a creature grappled using this feature, they cannot speak louder than a whisper or shout for help. Suppressing verbal components."
+			]
+		}
+	]
+}

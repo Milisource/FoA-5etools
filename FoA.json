@@ -399,7 +399,296 @@
                 "entries": ["Kitsune are born with a single, large fox tail which serves as their connection to their youkai ancestors. You gain an additional tail at the 3rd, 5th, 7th, 9th, 11th, 13th, 15th, and 17th levels."]
               }
             ]
-
+          },
+          {
+            "name": "Half-Succubus",
+            "source": "FractionsofAisha",
+            "creatureTypes": [
+              "humanoid"
+            ],
+            "size": ["S","M"],
+            "speed": {
+              "walk": 30,
+              "fly": 30
+            },
+            "darkvision": 30,
+            "lineage": "VRGR",
+            "traitTags": ["Uncommon Race", "Skill Proficiency"],
+            "languageProficiencies": [
+              {
+                "common": true,
+                "any": 1
+              }
+            ],
+            "entries": [
+              {
+                "type": "entries",
+                "name": "Size",
+                "entries": ["Succubi range from 4 to 7 feet tall. Your size is either Small or Medium."]
+              },
+              {
+                "type": "entries",
+                "name": "Age",
+                "entries": ["Succubi reach adulthood at 19, marked by the full development of their tails. Their lifespan can extend for thousands of years, with their longevity directly tied to how frequently they feed. In theory, an unchecked Succubus could achieve immortality."]
+              },
+              {
+                "type": "entries",
+                "name": "Speed.",
+                "entries": ["Your walking speed is 30 feet. You also have a flying speed of 30 feet."]
+              },
+              {
+                "type": "entries",
+                "name": "Darkvision",
+                "entries": ["You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."]
+              },
+              {
+                "type": "entries",
+                "name": "Red Handed",
+                "entries": ["You have two creature types: Fiend and Humanoid. You can be affected by a game effect if it works on either of your creature types."]
+              },
+              {
+                "type": "entries",
+                "name": "Half-Truth",
+                "entries":["When you make a Deception or Persuasion check and roll lower than a 9, you can treat the roll as a 9. You can use this feature a number of times equal to your proficiency bonus per long rest."]
+              },
+              {
+                "type": "entries",
+                "name": "Mischief",
+                "entries":["You gain a set of wings, which give you a flying speed of 30 feet. To use this speed, you can’t be wearing heavy armor.",
+                "Additionally, when you are hit with Radiant damage, you cannot regain hit points until the end of your next turn."]
+              },
+              {
+                "type": "entries",
+                "name": "Perfect Body",
+                "entries":["You can adjust the proportions of your person at will, such as making your breasts larger, or your hips wider. This does not require an action."]
+              },
+              {
+                "type": "entries",
+                "name": "Racial Feats",
+                "entries":["The following feats are available to you as a Half-Succubus: {@feat Forked Tongue|FoA}, {@feat Siren’s Snare|FoA}, and {@feat Stalk and Seduce|FoA}."]
+              }
+            ]
+          },
+          {
+            "name": "Oni",
+            "source": "FractionsofAisha",
+            "creatureTypes": [
+              "humanoid"
+            ],
+            "ability": [
+              {
+              "con": 2
+              }
+          ],
+            "size": ["M"],
+            "speed": {
+              "walk": 30
+            },
+            "darkvision": 60,
+            "traitTags": ["Uncommon Race", "Natural Weapon"],
+            "languageProficiencies": [
+              {
+                "common": true,
+                "any": 1
+              }
+            ],
+            "entries": [
+              {
+                "type": "entries",
+                "name": "Age",
+                "entries": ["Although Oni typically reach physical maturity at about the same age as humans, their maturation will rapidly slow beyond that, leading to them as an extremely long lived race; often reaching up to and exceeding 750 years of age should they survive long enough."]
+              },
+              {
+                "type": "entries",
+                "name": "Size",
+                "entries": ["The average Oni ranges from just under 6 feet tall to bordering the fringes of 8 feet in height. They are most seen with well maintained physiques and solid frames. Your size is Medium."]
+              },
+              {
+                "type": "entries",
+                "name": "Darkvision",
+                "entries": ["As an indication of their more predatory nature - Oni are readily capable hunters in twilight forests and night plains. You have superior vision in dark and dim conditions. You can see within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."]
+              },
+              {
+                "type": "entries",
+                "name": "Imperial Will",
+                "entries": ["Once per long rest, when you fail an ability check or a saving throw, you can reroll the d20 and add your proficiency bonus to the new roll if you don’t already add it. If you do so, you must use the new roll."]
+              },
+              {
+                "type": "entries",
+                "name": "Pride of Horn and Claw",
+                "entries": ["You have sharp, durable claws at the ends of your fingertips and nearly indestructible horns. You can use your claws to make unarmed strikes. When you hit with them, the strike deals 1d4 + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike. Additionally, you gain advantage on Athletics checks when using your horns to ram objects or break down doors."]
+              },
+              {
+                "type": "entries",
+                "name": "Sub-Types",
+                "entries": ["Four major Sub-Types of Oni exist within this world. That being the Dai-Oni, Ma-Oni, Taku-Oni and Ryo-Oni. Choose one of these subraces."]
+              }
+            ],
+            "subraces": [
+              {
+                "name": "Dai-Oni",
+                "source": "FractionsofAisha",
+                "raceName": "Oni",
+                "raceSource": "FractionsofAisha",
+                "ability": [
+                  {
+                    "str": 1
+                  }
+                ],
+                "entries": [
+                  {
+                    "type": "entries",
+                    "name": "Brutish Build",
+                    "entries": ["You count as one size larger for determining your carrying capacity and the weight you can push, drag, or lift - as well as for the purposes of initiating and maintaining a grapple, as well as moving a grappled creature."]
+                  },
+                  {
+                    "type": "entries",
+                    "name": "Thickly Muscled",
+                    "entries": ["You have densely woven muscle fibres, affording you incredible durability only enhanced by the adrenaline felt from wading into battle unarmored. When you aren’t wearing armor or a shield, your base AC is 13 + your Strength modifier."]
+                  }
+                ]
+              },
+              {
+                "name": "Ma-Oni",
+                "source": "FractionsofAisha",
+                "raceName": "Oni",
+                "raceSource": "FractionsofAisha",
+                "ability": [
+                  {
+                    "choose": {
+                        "from": [
+                            "int",
+                            "cha"
+                        ],
+                        "amount": 1
+                    }
+                }
+                ], 
+                "entries": [
+                  {
+                    "type": "entries",
+                    "name": "Magical Prodigy",
+                    "entries": ["You learn one 1st level Evocation, Conjuration, or Transmutation spell of your choice from the {@filter Wizard|spells|class=Wizard}, {@filter Warlock|spells|class=Warlock}, or {@filter Sorcerer|spells|class=Sorcerer} spell list and can cast it using this feature for free once per long rest. You can choose Intelligence or Charisma as your spellcasting ability for this spell when you make your choice."]
+                  },
+                  {
+                    "type": "entries",
+                    "name": "Arcane Blood",
+                    "entries": ["You gain resistance to Force damage."]
+                  }
+                ]
+              },
+              {
+                "name": "Shu-Oni",
+                "source": "FractionsofAisha",
+                "raceName": "Oni",
+                "raceSource": "FractionsofAisha",
+                "ability": [
+                  {
+                    "wis": 1
+                  }
+                ], 
+                "entries": [
+                  {
+                    "type": "entries",
+                    "name": "Dependable Presence",
+                    "entries": ["When an ally within 30 feet of you that can see or hear you fails a saving throw, misses an attack roll, or fails an ability check - you can use a reaction to incite a spur of encouragement. They can choose to re-roll the d20 and potentially turn it into a success.",
+                    "You can use this feature a number of times equal to half your Proficiency Bonus rounded up, and you regain all expended uses when you finish a long rest."]
+                  },
+                  {
+                    "type": "entries",
+                    "name": "Thoughtful Practice",
+                    "entries": ["You have always made it a point to keep an active and focused mind in learning and honing your skills. When you finish a long rest, choose one skill that you have proficiency in to become practiced in. Whenever you make an ability check with the chosen skill, roll a d4 and add the number rolled to the check’s total."]
+                  }
+                ]
+              },
+              {
+                "name": "Ryo-Oni",
+                "source": "FractionsofAisha",
+                "raceName": "Oni",
+                "raceSource": "FractionsofAisha",
+                "ability": [
+                  {
+                    "choose": {
+                        "from": [
+                            "int",
+                            "cha",
+                            "wis",
+                            "str",
+                            "con",
+                            "dex"
+                        ],
+                        "amount": 1
+                    }
+                }
+                ], 
+                "entries": [
+                  {
+                    "type": "entries",
+                    "name": "Beyond your Limits",
+                    "entries": ["When faced with the greatest of adversity, you are willing to bring yourself to the very brink to survive.",  
+                          "Once per long rest, when you are reduced to 0 hit points but not killed outright, you can expend up to a number of remaining hit dice equal to your proficiency bonus and roll them normally to be dropped to the resulting HP total instead. One minute after using this feature, or when you perceive your surroundings as safe, your HP is reduced to 0.",
+                          "If you fall to 0 HP again before the effect ends - you immediately start with one failed death saving throw."]
+                  },
+                  {
+                    "type": "entries",
+                    "name": "Keen Intuition",
+                    "entries": ["Walking the line between the mistrusted Oni and the accepted races of the land has given you better insight into how others perceive you. You make {@skill Insight|phb} checks with advantage when determining if a creature is lying to you or harboring ill intent towards you."]
+                  }
+                ]
+              }
+            ]
           }
+	     ],
+	"feat": [
+		{
+			"name": "Stalk and Seduce",
+			"source": "FractionsofAisha",
+            "prerequisite": [
+                {
+                    "race": [
+                        {
+                            "name": "Half-Succubus"
+                        }
+                    ]
+                }
+            ],
+			"entries": [
+				"As an action, you change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight but not so much that your size changes. You can make yourself appear as a member of another race, though none of your game statistics change. You can't duplicate the appearance of an individual you've never seen, and you must adopt a form that has the same basic arrangement of limbs that you have; if your new form does not have wings, you cannot use the flying speed granted by Mischief. Your clothing and equipment aren't changed by this trait.",
+				"You stay in the new form until you use an action to revert to your true form or until you die."
+			]
+		},
+        {
+			"name": "Forked Tongue",
+			"source": "FractionsofAisha",
+            "prerequisite": [
+                {
+                    "race": [
+                        {
+                            "name": "Half-Succubus"
+                        }
+                    ]
+                }
+            ],
+			"entries": [
+				"You have an exceedingly long tongue, and gain Proficiency in {@skill Deception|phb} and {@skill Persuasion|phb}. If you already have Proficiency with these chosen abilities, you can make one expertise, meaning your proficiency bonus is doubled for any ability check you make that uses that proficiency."
+			]
+		},
+        {
+			"name": "Siren’s Snare",
+			"source": "FractionsofAisha",
+            "prerequisite": [
+                {
+                    "race": [
+                        {
+                            "name": "Half-Succubus"
+                        }
+                    ]
+                }
+            ],
+			"entries": [
+				"Your tail is long enough to wrap around a creature. You can attempt to grapple one creature within 10 feet of you using Dexterity (Acrobatics) or Strength (Athletics) as a bonus action. On a successful grapple, they are moved 5ft closer to you.",
+                "If you have a creature grappled using this feature, they cannot speak louder than a whisper or shout for help. Suppressing verbal components."
+			]
+		}
 	]
 }
