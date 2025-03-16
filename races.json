@@ -1,0 +1,146 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "FractionsofAisha",
+				"abbreviation": "FoA",
+				"full": "Fractions of Aisha",
+                "color": "0096FF",
+				"version": "1.0.0",
+				"url": "https://youareanidiot.org",
+				"authors": [
+					"Demi, Chels, Baitten, and others"
+				],
+				"convertedBy": [
+					"ilikemotorcycles"
+				]
+			}
+		],
+		"dateAdded": 1729630006,
+		"dateLastModified": 1729630006,
+		"_dateLastModifiedHash": "6ae20ede5a",
+		"edition": "classic"
+	},
+	"race": [
+        {
+            "name": "Dullahan",
+            "source": "FractionsofAisha",
+            "creatureTypes": [
+              "fey"
+              ],
+            "size": ["M"],
+            "speed": {
+              "walk": 30
+            },
+            "lineage": "VRGR",
+            "darkvision": 30,
+            "traitTags": ["Uncommon Race"],
+            "languageProficiencies": [
+              {
+                "common": true,
+                "sylvan": true
+              }
+            ],
+            "entries": [
+              {
+                "type": "entries",
+                "name": "Age",
+                "entries": ["Dullahan reach maturity at 30 years of age and live well beyond four centuries."]
+              },
+              {
+                "type": "entries",
+                "name": "Size",
+                "entries": ["Dullahans range from just under 5 to well over 6 feet tall. Regardless of where you fall in that range, your size is medium."]
+              },
+              {
+                "type": "entries",
+                "name": "Headless",
+                "entries": [
+                  "You can detatch or reattach your head to your body at will, rendering you immune to decapitation. While your head is detatched, harmless flames spout from your neck, shedding dim light within a 5-foot radius. While headless:",
+                  {
+                      "type": "list",
+                      "items": [
+                          "You are always aware of the distance and direction from your body to your head as long as they are on the same plane.",
+                          "While seperated, your headless body cannot utilize any senses that require your head, but can still eat, drink, and cast spells requiring verbal components as long as your head can speak.",
+                          "If not being carried, your detatched head can be targeted, has an AC of 10 and automatically fails Dexterity saving throws; if your head and body are both caught in the same area of effect, you are only affected by it once.",
+                          "While detatched, your head can tell when someone is soon to die by natural causes with just a glance and can feel the presence of those nearing their death within a mile it."
+                      ]
+                  }
+                ]
+              },
+              {
+                "type": "entries",
+                "name": "Darkvision",
+                "entries": ["You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."]
+              },
+              {
+                "type": "entries",
+                "name": "Death Coach",
+                "entries": ["As an action, you can call a fey spirit from your shadow that takes the form of a misty, black warhorse, appearing in a space adjacent to you. This horse faithfully serves you as a mount in and out of combat, but cannot take any actions other than dash, disengage, or dodge. As a bonus action, you can call this horse back into your shadow, immediately causing it to dissipate into a black mist. If reduced to 0 hit points, the horse vanishes back into your shadow and cannot be called out again until you have completed a long rest."]
+              }
+            ],
+            "age": {
+              "mature": 30,
+              "max": 900
+            }
+          },
+          {
+            "name": "Kitsune",
+            "source": "FractionsofAisha",
+            "creatureTypes": [
+              "humanoid"
+            ],
+            "size": ["M"],
+            "speed": {
+              "walk": 30
+            },
+            "darkvision": 30,
+            "lineage": "VRGR",
+            "traitTags": ["Uncommon Race", "Skill Proficiency"],
+            "languageProficiencies": [
+              {
+                "common": true,
+                "any": 1
+              }
+            ],
+            "entries": [
+              {
+                "type": "entries",
+                "name": "Size",
+                "entries": ["Kitsune range from just under 5 to 6 feet tall. Your size is medium."]
+              },
+              {
+                "type": "entries",
+                "name": "Age",
+                "entries": ["Kitsune reach adulthood at the age of 100, when they gain the ability to grow additional tails. Kitsune can live for upwards of 1000 years based on the number of tails obtained throughout the course of their life."]
+              },
+              {
+                "type": "entries",
+                "name": "Fox's Cunning",
+                "entries": ["You gain proficiency in the {@skill Deception|phb} skill."]
+              },
+              {
+                "type": "entries",
+                "name": "Darkvision",
+                "entries": ["You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."]
+              },
+              {
+                "type": "entries",
+                "name": "Trickster",
+                "entries": ["You know the {@spell Minor Illusion|phb} cantrip; you additionally gain the ability to cast the {@spell Disguise Self|phb} spell with this trait, and at 3rd level, you gain the ability to cast the {@spell Mirror Image|phb} spell with this trait. you regain the ability to cast each of these spells when you finish a long rest. Your spellcasting ability for these spells is Charisma."]
+              },
+              {
+                "type": "entries",
+                "name": "Kitsunebi",
+                "entries": ["You know the {@spell Dancing Lights|phb} cantrip; when you cast the cantrip with this trait, the lights take the appearance of blue flames."]
+              },
+              {
+                "type": "entries",
+                "name": "Tails",
+                "entries": ["Kitsune are born with a single, large fox tail which serves as their connection to their youkai ancestors. You gain an additional tail at the 3rd, 5th, 7th, 9th, 11th, 13th, 15th, and 17th levels."]
+              }
+            ]
+
+          }
+	]
+}

@@ -1,0 +1,283 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "FractionsofAisha",
+				"abbreviation": "FoA",
+				"full": "Fractions of Aisha",
+                "color": "0096FF",
+				"version": "1.0.0",
+				"url": "https://youareanidiot.org",
+				"authors": [
+					"Demi, Chels, Baitten, and others"
+				],
+				"convertedBy": [
+					"ilikemotorcycles"
+				]
+			}
+		],
+		"dateAdded": 1729630006,
+		"dateLastModified": 1729630006,
+		"_dateLastModifiedHash": "6ae20ede5a",
+		"edition": "classic"
+	},
+	"item": [
+		{
+			"name": "Courtesan's Pack",
+			"source": "FractionsofAisha",
+			"baseItem": "pack|FoA",
+			"rarity": "none",
+			"type": "G",
+			"weight": 5,
+			"value": 2500,
+			"entries": [
+				"Includes:",
+                {
+                    "type": "list",
+                    "items": [
+                        "a {@item backpack|phb}",
+                        "an iron mirror",
+                        "an assortment of makeup creams and powders",
+                        "a bottle of perfume",
+                        "a bottle of fine wine",
+                        "two bottles each of personal lubricant and massage oil",
+                        "two sets of {@item lingerie|fractionsofaisha}",
+                        "25 {@item condoms|fractionsofaisha}",
+                        "a {@item dildo|fractionsofaisha}",
+                        "an {@item aphrodisiac|fractionsofaisha}"
+                    ]
+                }
+			]
+		},
+		{
+			"name": "Aphrodisiac",
+			"source": "FractionsofAisha",
+			"baseItem": "potion|phb",
+			"rarity": "none",
+			"type": "P",
+			"weight": 1,
+			"value": 1000,
+			"entries": [
+				"Created with fiveleaves, a single bottle of this potent mixture contains 5 doses which can be ingested orally or applied to body directly.",
+				"Regardless of how it was absorbed, a dose of aphrodisiac puts you into a heightened state of arousal and increases the body's sensitivity for 1 hour. Consuming multiple doses at once increases this duration by 1 hour per dose and intensifies its effects to the point of unbearable arousal, reduced inhibitions, and an inability to think straight."
+			]
+
+		},
+		{
+			"name": "Ball Gag",
+			"source": "FractionsofAisha",
+			"rarity": "none",
+			"type": "OTH",
+			"value": 100,
+			"entries": [
+				"A ball gag is a small, soft, and flexible ball that fits in the mouth. It is designed to be inserted into the mouth and held in place by the teeth, preventing the wearer from speaking or making noise. The ball is usually made of a soft material, such as silicone or latex, and is designed to be comfortable and easy to wear."
+			]
+		},
+		{
+			"name": "Bull Whip",
+			"source": "FractionsofAisha",
+			"rarity": "none",
+			"type": "OTH",
+			"value": 100,
+			"entries": [
+				"A bull whip is a whip with a handle and a long, flexible lash. It is designed to be used for various purposes, such as whipping, flogging, and caning. The lash of the whip is usually made of a soft material, such as leather or synthetic fibers, and is designed to be flexible and durable."
+			]
+		},
+		{
+			"name": "Chastity Belt",
+			"source": "FractionsofAisha",
+			"rarity": "none",
+			"type": "OTH",
+			"weight": 5,
+			"value": 500,
+			"entries": [
+				"A chastity belt is a device that is worn around the waist and is designed to prevent the wearer from having sex. It is usually made of a soft material, such as leather or synthetic fibers, and is designed to be comfortable and easy to wear."
+			]
+		},
+		{
+			"name": "Clamp",
+			"source": "FractionsofAisha",
+			"rarity": "none",
+			"type": "OTH",
+			"value": 100,
+			"entries": [
+				"A clamp is a device that is used to hold an object in place. It is usually made of a soft material, such as leather or synthetic fibers, and is designed to be comfortable and easy to wear."
+			]
+		},
+		{
+			"name": "Condom",
+			"source": "FractionsofAisha",
+			"rarity": "none",
+			"type": "OTH",
+			"value": 1,
+			"entries": [
+				"A condom is a thin, latex or polyurethane membrane that is designed to be worn on the penis during sexual intercourse. It is designed to prevent the transmission of sexually transmitted infections (STIs) and pregnancy."
+			]
+		},
+		{
+			"name": "Dildo",
+			"source": "FractionsofAisha",
+			"rarity": "none",
+			"type": "OTH",
+			"value": 50,
+			"entries": [
+				"A dildo is a sex toy that is designed to be inserted into the vagina or anus during sexual intercourse. It is usually made of a soft material, such as silicone or latex, and is designed to be comfortable and easy to wear."
+			]
+		},
+		{
+			"name": "Leather Collar",
+			"source": "FractionsofAisha",
+			"rarity": "none",
+			"type": "OTH",
+			"value": 100,
+			"entries": [
+				"A leather collar is a collar that is made of a soft material, such as leather or synthetic fibers, and is designed to be comfortable and easy to wear."
+			]
+		},
+		{
+			"name": "Paddle",
+			"source": "FractionsofAisha",
+			"rarity": "none",
+			"type": "OTH",
+			"weight": 3,
+			"value": 100,
+			"entries": [
+				"A paddle is a flat, wooden or plastic board that is used to spank or paddle the wearer. It is usually made of a soft material, such as leather or synthetic fibers, and is designed to be comfortable and easy to wear."
+			]
+		},
+		{
+			"name": "Plug",
+			"source": "FractionsofAisha",
+			"rarity": "none",
+			"type": "OTH",
+			"value": 50,
+			"entries": [
+				"A plug is a small, soft, and flexible ball that fits in the vagina or anus during sexual intercourse. It is designed to be inserted into the vagina or anus and held in place by the muscles, preventing the wearer from having sex."
+			]
+		},
+		{
+			"name": "Rubber Beads",
+			"source": "FractionsofAisha",
+			"rarity": "none",
+			"type": "OTH",
+			"value": 50,
+			"entries": [
+				"Rubber beads are a type of sex toy that are designed to be inserted into the vagina or anus during sexual intercourse. They are usually made of a soft material, such as silicone or latex, and are designed to be comfortable and easy to wear."
+			]
+		},
+		{
+			"name": "Lingerie",
+			"source": "FractionsofAisha",
+			"rarity": "none",
+			"value": 300,
+			"entries": [
+				"Stylish, alluring undergarments made from valuable silk and lace."
+			]
+		},
+		{
+			"name": "Servant's Clothes",
+			"source": "FractionsofAisha",
+			"rarity": "none",
+			"type": "OTH",
+			"value": 500,
+			"entries": [
+				"A set of Servant's Clothes modified to prioritize \"form\" over function. Added frills draw the attention of onlookers and the reduction in fabrics around certain areas suggests that these clothes were made for a different kind of service."
+			]
+		},
+		{
+			"name": "Dancer's Silks",
+			"source": "FractionsofAisha",
+			"rarity": "none",
+			"type": "OTH",
+			"value": 1000,
+			"entries": [
+				"Dancer's silks are a type of clothing that is designed to be worn during sexual intercourse. It is usually made of a soft material, such as silk or satin, and is designed to be comfortable and easy to wear."
+			]
+		},
+		{
+			"name": "Bunny's Delight",
+			"source": "FractionsofAisha",
+			"rarity": "none",
+			"type": "OTH",
+			"value": 200,
+			"entries": [
+				"An amusingly seductive outfit which includes fake rabbit ears and a plug tipped with a white-fluff tail."
+			]
+		},
+		{
+			"name": "Revealing Robes",
+			"source": "FractionsofAisha",
+			"rarity": "none",
+			"type": "OTH",
+			"value": 100,
+			"entries": [
+				"Utterly impractical robes that loosely resemble those traditionally worn by mages. Though, whereas most robes conceal the body, these seem solely concerned with flaunting as much of their wearer's body as possible."
+			]
+		},
+		{
+			"name": "Succubus Crest",
+			"source": "FractionsofAisha",
+			"rarity": "common",
+			"value": 10000,
+			"entries": [
+				"Produced by a special needle, this magic tattoo takes the form of a heart just above the genitals.",
+				"Over the course of 1 minute, this needle can be pressed to the skin, turning into ink which becomes the tattoo. The creature holding the needle can choose the color it takes and add simple symbols or a name to the heart-shaped tattoo. This tattoo lasts until you spend 1 minute removing it, at which point it reverts to a needle.",
+				"The tattoo gives off a magical glow, which shows through clothing and subjects you to the effects of a dose of aphrodisiac until removed."
+			]
+		},
+		{
+			"name": "Bra of Holding",
+			"source": "FractionsofAisha",
+			"rarity": "common",
+			"value": 1250,
+			"entries": [
+				"While wearing this magical bra, up to 10 pounds of tiny objects can be stored within it by slipping them beneath the bra itself or stuffing them down your cleavage, where they vanish into an extradimensional space. Retrieving an item from this bra requires an action.",
+				"If the bra is overloaded, pierced, or torn, it ruptures and is destroyed, and its contents are scattered in the Astral Plane. If the bra is removed, its contents spill out."
+			]
+		},
+		{
+			"name": "Chestwraps of Binding",
+			"source": "FractionsofAisha",
+			"rarity": "common",
+			"value": 2500,
+			"entries": [
+				"A simple length of white cloth which can be wrapped around the chest. While wearing these wrappings, you can speak their command word, causing your breasts to become flat.",
+				"Removing these wrappings or speaking their command word again immediately returns them to their original size."
+			]
+		},
+		{
+			"name": "Portal Panties",
+			"source": "FractionsofAisha",
+			"rarity": "common",
+			"value": 10000,
+			"entries": [
+				"A pair of provocative panties that are magically linked to two pocket portals (included with purchase) labeled with a 'V' and an 'A' respectively. Whenever you wear these panties, your name is inscribed onto one or both of the pocket portals until you remove them; a creature touching one of the pocket portals can speak its command word, linking it to your body.",
+				"Upon speaking the command word again, the link is immediately severed."
+			]
+		},
+		{
+			"name": "Periapt of Proof Against Pregnancy",
+			"source": "FractionsofAisha",
+			"rarity": "common",
+			"value": 7500,
+			"entries": [
+				"This engraved gem appears to be a jewel of small value. While wearing it, it is impossible for you to impregnate or become pregnant."
+			]
+		},
+		{
+			"name": "Gauntlets",
+			"source": "FractionsofAisha",
+			"rarity": "none",
+			"weaponCategory": "martial",
+			"type": "M",
+			"weight": 2,
+			"dmg1": "1d6",
+			"dmgType": "B",
+			"value": 1500,
+			"entries": [
+				"These gauntlets deal 1d6 bludgeoning damage. If you are not wielding any other weapons or a shield, the damage increases to 2d4 bludgeoning damage.",
+				"Monks are proficient with gauntlets and they count as monk weapons. However, attacks made with gauntlets do not count as unarmed strikes."
+			]
+		}
+	]
+}
