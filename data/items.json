@@ -278,6 +278,45 @@
 				"These gauntlets deal 1d6 bludgeoning damage. If you are not wielding any other weapons or a shield, the damage increases to 2d4 bludgeoning damage.",
 				"Monks are proficient with gauntlets and they count as monk weapons. However, attacks made with gauntlets do not count as unarmed strikes."
 			]
+		},
+		{
+			"name": "Cartographers' Guild Pin",
+			"source": "FractionsofAisha",
+			"rarity": "varies",
+			"wondrous": true,
+			"items": [
+				"Cartographers' Guild Pin (Common)",
+				"Cartographers' Guild Pin (Uncommon)",
+				"Cartographers' Guild Pin (Rare)"
+			],
+			"entries": []
+		},
+		{
+			"name": "Cartographers' Guild Pin (Common)",
+			"source": "FractionsofAisha",
+			"rarity": "common",
+			"wondrous": true,
+			"entries": [
+				"When held face down, this pin acts as a mundane compass that points to the Boreal pole. Additionally, it conceals diminutive inkwells, pins, and tiny rolled up parchments that act as functional Cartographer's Tools."
+			]
+		},
+		{
+			"name": "Cartographers' Guild Pin (Uncommon)",
+			"source": "FractionsofAisha",
+			"rarity": "uncommon",
+			"wondrous": true,
+			"entries": [
+				"In addition to the functions of the Common version of the pin, a minor magical enchantment allows the wearer to, as an action, become proficient with Cartographer's Tools for 10 minutes once per long rest."
+			]
+		},
+		{
+			"name": "Cartographers' Guild Pin (Rare)",
+			"source": "FractionsofAisha",
+			"rarity": "rare",
+			"wondrous": true,
+			"entries": [
+				"In addition to the functions of the Common version of the pin, the major magical enchantment grants the wearer proficiency with Cartographer's Tools. This proficiency is valid for the sake of DT crafting. As an action once per long rest, the wearer can gain Expertise in Cartographer's Tools for 10 minutes."
+			]
 		}
 	]
 }
